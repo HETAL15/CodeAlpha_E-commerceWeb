@@ -1,0 +1,20 @@
+button{
+    background-color: #f9e90c; /* Change to blue color */
+    color: #131212; /* Change to white color */
+    border: solid; /* Remove border */
+    padding: 0.5rem 1rem; /* Add padding */
+    border-radius: 0.25rem; /* Add border radius */
+    cursor: pointer; /* Add cursor pointer */
+
+}
+
+div{
+    
+    background-color: #f07e7e; /* Change to blue color */
+    color: #131212; /* Change to white color */
+    border: solid; /* Remove border */
+    padding: 0.5rem 1rem; /* Add padding */
+    border-radius: 0.25rem; /* Add border radius */
+    cursor: pointer; /* Add cursor pointer */
+
+}

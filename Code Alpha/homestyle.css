@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #151414;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #131212;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .hero {
+    background-image: url('hero.jpg');
+    background-size: cover;
+    color: #0b0b0b;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 48px;
+    margin-top: 0;
+  }
+  
+  .hero p {
+    font-size: 24px;
+  }
+  
+  .button {
+    background-color: #f10d0d;
+    border: none;
+    color: #fff;
+    padding: 10px 20
+  
